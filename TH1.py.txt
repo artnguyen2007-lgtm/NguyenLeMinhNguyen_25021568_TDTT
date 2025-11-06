@@ -1,0 +1,6 @@
+a = input("nhap ten cua ban:")
+b = input("nhap tuoi cua ban:")
+c = int(input("nhap so le:"))
+d = int(input("nhap so chan:"))
+print("ten cua ban la:", a, "tuoi cua ban la:", b)
+print("tong 2 so la:", c + d)
